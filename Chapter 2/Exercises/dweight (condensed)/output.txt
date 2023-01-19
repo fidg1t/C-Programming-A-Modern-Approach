@@ -1,0 +1,3 @@
+Dimensions: 12x10x8
+Volume (cubic inches): 960
+Dimension weight (in pounds): 6
