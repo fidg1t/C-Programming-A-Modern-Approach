@@ -1,0 +1,1 @@
+Enter share price (must include a fraction): Enter number of shares: Value of holdings: $1.#J
