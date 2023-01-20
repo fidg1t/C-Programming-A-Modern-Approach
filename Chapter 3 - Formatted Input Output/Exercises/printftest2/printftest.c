@@ -9,10 +9,12 @@
 
 int main(void)
 {
-  printf("%6d,%4d", 86, 1040);
-  printf("%12.5e", 30.253);
-  printf("%.4f", 83.162);
-  printf("%-6.2g", .0000009979);
+  float x = 10;
+
+  printf("%-8.1e", x);
+  printf("%10.6e", x);
+  printf("%8.3f", x);
+  printf("%6.0f", x);
 
   return 0;
 }
