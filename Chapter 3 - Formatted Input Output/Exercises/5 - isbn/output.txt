@@ -1,0 +1,4 @@
+Enter ISBN: Language: 0
+Publisher: 016
+Book Number: 00000
+Check digit: 10163104

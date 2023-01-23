@@ -1,8 +1,8 @@
 /*
-* Name: scanftest.c
-* Purpose: prints out 4 different numbers via printf
+* Name: date.c
+* Purpose: swaps the format of dates around
 * Author: Nicholas Brennan
-* Date Written: 1/18/23
+* Date Written: 1/19/23
 */
 
 #include <stdio.h>
