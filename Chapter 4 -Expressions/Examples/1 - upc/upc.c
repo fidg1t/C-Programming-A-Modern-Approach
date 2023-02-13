@@ -1,6 +1,6 @@
 /*
 * Name: upc.c
-* Purpose: Computse a Universal Product Code check digit
+* Purpose: Computes a Universal Product Code check digit
 * Author: Nicholas Brennan
 * Date Written: 1/23/23
 */
